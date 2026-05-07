@@ -44,7 +44,6 @@
 ## <img width="591" height="1280" alt="photo_8_2026-05-08_00-27-02" src="https://github.com/user-attachments/assets/bd21db8a-abe9-4975-af61-c8ce841aaaed" />
 ## <img width="591" height="1280" alt="photo_9_2026-05-08_00-27-02" src="https://github.com/user-attachments/assets/efcfdc17-4881-49c6-a483-1e8bdb82e397" />
 ## <img width="591" height="1280" alt="photo_10_2026-05-08_00-27-02" src="https://github.com/user-attachments/assets/fbc4d3be-6bc1-4f11-abe9-947f9065ef17" />
-## <img width="591" height="1280" alt="photo_11_2026-05-08_00-27-02" src="https://github.com/user-attachments/assets/32645482-536a-49eb-a75d-147da066ae41" />
 ## <img width="1529" height="359" alt="Снимок экрана 2026-05-08 000822" src="https://github.com/user-attachments/assets/3d79d699-f9b4-4b06-8617-48929d0590f8" />
 
 ## Висновки   
