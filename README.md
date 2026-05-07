@@ -26,14 +26,6 @@
 5.  **Відновлення паролю:**
     * Можливість зміни або скидання пароля через email за допомогою Firebase API.
 
-## Технічний стек
-* **Framework:** React Native (Expo)
-* **Navigation:** Expo Router 
-* **Backend:** Firebase Auth, Firebase Firestore 
-* **State Management:** React Context API (AuthContext) 
-
----
-
 ## Інструкція запуску
 
 ## Встановлення залежностей: npm install
